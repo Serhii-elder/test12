@@ -1,0 +1,5 @@
+﻿  Test.cpp
+c:\users\serhii\source\repos\tests\tests\test.cpp(131): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\serhii\source\repos\tests\tests\test.cpp(195): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\serhii\source\repos\tests\tests\test.cpp(197): warning C4715: Test::loadpoints: значение возвращается не при всех путях выполнения
+  Tests.vcxproj -> C:\Users\Serhii\source\repos\Tests\Debug\Tests.exe

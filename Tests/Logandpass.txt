@@ -1,0 +1,6 @@
+0 f f f
+1 d d d
+2 P P P
+3 N N N
+4 Q Q Q
+5 G G G
